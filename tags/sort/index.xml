@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Notepadium</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Notepadium</description>
+    <title>sort on Notepadium</title>
+    <link>/tags/sort/</link>
+    <description>Recent content in sort on Notepadium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2020 Notepadium.</copyright>
     <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/sort/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/post/linux-search-log/</guid>
       <description>Linux Log 검색을 위한 명령어 정리 (가정) 사용하는 accesslog format 은 Combined Log Format 으로 아래와 같음. &amp;quot;%h %l %u %t \&amp;quot;%r\&amp;quot; %&amp;gt;s %b \&amp;quot;%{Referer}i\&amp;quot; \&amp;quot;%{User-agent}i\&amp;quot;&amp;quot; 예시 data 127.0.0.1 - frank [10/Oct/2000:13:55:36 -0700] &amp;quot;GET /apache_pb.gif HTTP/1.0&amp;quot; 200 2326 &amp;quot;http://www.example.com/start.html&amp;quot; &amp;quot;Mozilla/4.08 [en] (Win98; I ;Nav)&amp;quot; 뽑으려는 데이터 1.</description>
-    </item>
-    
-    <item>
-      <title>ssh 동작 방식</title>
-      <link>/post/2020-03-14-ssh/</link>
-      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-03-14-ssh/</guid>
-      <description>SSH Protocol ssh 이란 Secure Shell Protocol 의 약자로, FTP / Telnet 에 비해 보안에 초점을 맞춘 protocol 입니다. 인증 방식 ssh 은 비대칭키 방식을 이용하여 사용자 인증을 진행합니다. client / server 간의 통신 시 보</description>
     </item>
     
   </channel>
